@@ -1,3 +1,3 @@
 :s
-echo hi
+echo Somebody was here...
 goto s
